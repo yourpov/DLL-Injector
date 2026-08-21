@@ -5,3 +5,4 @@ namespace cfg {
     inline constexpr const wchar_t* targetProcess = L""; // e.g., L"Valorant-Win64-Shipping.exe";
 
     inline constexpr bool debugMode               = false;
+}
