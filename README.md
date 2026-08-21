@@ -1,5 +1,3 @@
-<div align="center">
-
 # DLL-Injector
 
 **Windows DLL injector with drag & drop support**
@@ -8,11 +6,10 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Language](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white)
 
+<img width="979" height="512" alt="preview" src="https://github.com/user-attachments/assets/3941927d-ecd4-4ea0-9f30-86774bae8e87" />
+<div align="center">
+
 </div>
-
-Drop any `.dll` onto the exe (or put it next to it) and it gets injected into the game
-
-> This project is for educational purposes only
 
 ## Features
 
